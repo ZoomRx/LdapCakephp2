@@ -1,0 +1,9 @@
+{
+    "name": "zoomrx/ldap-cakephp2",
+    "description": "LDAP plugin for cakephp 2.x versions",
+    "type": "composer-plugin",
+    "require": {
+        "cakephp/cakephp": ">2.7 <3.0.0"
+    },
+    "minimum-stability": "stable"
+}
