@@ -81,4 +81,4 @@ Read a particular entry with cn=test.user
     For mac, conf file is located in /usr/openldap/ldap.conf
     For unix, conf file is located in /etc/ldap/ldap.conf 
     To disable certificate verification change TLS_REQCERT to 'never' in ldap.conf file
-# LdapCakephp2
+
